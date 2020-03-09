@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/bootstrap";
+@import "components/spinner";
+
+.alert, ul {
+    margin-bottom: 0;
+}
+
+.flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
